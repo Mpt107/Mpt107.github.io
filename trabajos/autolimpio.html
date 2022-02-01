@@ -3,6 +3,10 @@
  <head>
    <meta charset="UTF-8">
 
+   <script src="store.js"></script>
+
+
+
   <h1> Auto Limpio</h1>
 
     <H2>CLIENTE</H2>
@@ -21,20 +25,16 @@
             <label for= "rut"> RUT </label>
             <input type="text" name="rut" id="RUT" placeholder="Ingrese su rut" required/>
             -
+            
             <input type="text" id="dv" name="dv" />
             <br /><br/>
 
             <label for= "Direccion"> DIRECCION </label>
             <input type="text" name="sireccion" id="direccion" placeholder="Ingrese su direccion" required/><br>
-            <br /><br/>
-
-
+            
 
             <h2>COMUNA</h2>
             
-
-
-
 
             <label for= "las condes"> las condes </label>
             <input type="radio" name="comuna" id="las condes"  value="las condes"/>
@@ -73,12 +73,9 @@
 <option label="camioneta" value="camioneta"></option>
 <option label="moto" value="moto"></option>
 </select>
-
-
-
-
-
 <br /><br/>
+
+
 <button type="reset">Limpiar</button>
 
 <button type="submit">INGRSAR</button>
