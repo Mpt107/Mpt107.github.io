@@ -6,4 +6,9 @@ agrege parte formulario
 - inclui fecha nacimiento
 <<<<<<< HEAD
 agrege imagen header
+<<<<<<< HEAD
 formato header y colores
+=======
+=======
+
+>>>>>>> fd28b39f4728d942eb87f7452a7519ee0b4db921
