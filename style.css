@@ -1,11 +1,6 @@
 
-
-label {
-  display: block;
-  font: 1rem 'Fira Sans', sans-serif;
-}
-
-input,
-label {
-  margin: .4rem 0;
+.main-header {
+      background-image: url("images/dogs.jpg") ;
+      background-size: cover; height: 150px;
+      padding-top: 30px;
 }
